@@ -1,0 +1,16 @@
+Package: nemg
+Name: Nem'G
+Version: 1.1.0
+Description: Shared by NemG, No Credit Change In Any Form 
+Section: Hacks
+Depends: firmware (>= 5.0)
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: NemOS
+dev: NemG
+Homepage: https://repo.thenamk3.net
+Depiction: https://repo.thenamk3.net
+
+

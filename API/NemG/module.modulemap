@@ -1,0 +1,5 @@
+module NemG {
+    umbrella header "NemG.h"
+    export *
+    module * { export * }
+}
